@@ -50,7 +50,7 @@
 <p id="database" hidden=""><?=$this->database ?></p>
 <p id="username" hidden=""><?=$this->username ?></p>
 <p id="password" hidden=""><?=$this->password ?></p>
-
+<p>test</p>
 <script src="../js/sidebar.js"></script>
 
 
